@@ -1,0 +1,10 @@
+# Django framework & dependencies
+django==4.2.*
+
+# Text processing and NLP
+nltk==3.8.*
+fuzzywuzzy==0.18.*
+python-Levenshtein==0.21.*  # Optional, makes fuzzywuzzy faster
+
+# Utilities
+numpy

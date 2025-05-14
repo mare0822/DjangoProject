@@ -1,0 +1,73 @@
+# INSTRUCTOR RESUME
+# ===============================
+
+NAME: Dr. Jane Smith
+POSITION: Senior Computer Science Instructor
+EMAIL: jane.smith@university.edu
+PHONE: (555) 123-4567
+
+## PROFESSIONAL SUMMARY
+-------------------------------
+Highly accomplished Computer Science instructor with over 12 years of experience teaching advanced programming concepts, algorithms, and software development. Recognized for developing innovative teaching methodologies that consistently result in exceptional student performance and engagement. Strong track record of mentoring students who go on to succeed in prestigious tech companies and graduate programs.
+
+## EDUCATION
+-------------------------------
+Ph.D., Computer Science
+Stanford University
+2011
+
+M.S., Computer Engineering
+Massachusetts Institute of Technology
+2007
+
+B.S., Computer Science (Summa Cum Laude)
+University of California, Berkeley
+2005
+
+## TEACHING EXPERIENCE
+-------------------------------
+SENIOR INSTRUCTOR
+University of Technology | 2015 - Present
+- Developed and implemented comprehensive curriculum for advanced programming courses resulting in 95% student satisfaction rate
+- Created innovative lab exercises that increased practical skills mastery by 40%
+- Pioneered flipped classroom teaching methodology that improved average class scores by 27%
+- Mentored over 50 teaching assistants, establishing a highly effective teaching framework
+- Received "Outstanding Instructor Award" for three consecutive years (2018-2021)
+
+ASSISTANT PROFESSOR
+State University | 2011 - 2015
+- Taught core programming courses to undergraduate and graduate students
+- Redesigned introductory programming curriculum resulting in 30% increase in student retention
+- Established industry partnerships providing students with real-world project experience
+- Supervised 12 graduate student theses with 100% completion rate
+
+## TECHNICAL SKILLS
+-------------------------------
+- Programming Languages: Python, Java, C++, JavaScript, Ruby
+- Web Development: HTML5, CSS3, React, Node.js, Django, Flask
+- Database Systems: MySQL, PostgreSQL, MongoDB, Redis
+- Tools & Frameworks: Git, Docker, TensorFlow, PyTorch, Kubernetes
+- Operating Systems: Linux, Windows, macOS
+
+## PUBLICATIONS & RESEARCH
+-------------------------------
+- Smith, J. et al. (2020). "Innovative Approaches to Teaching Algorithms in Undergraduate Education." Journal of Computer Science Education, Vol. 32.
+- Smith, J. (2019). "Machine Learning Integration in Computer Science Curriculum." Proceedings of the International Conference on Computer Science Education.
+- Smith, J. & Johnson, R. (2017). "Practical Applications of Project-Based Learning in Programming Courses." IEEE Transactions on Education, Vol. 60.
+
+## CERTIFICATIONS
+-------------------------------
+- Certified Software Development Professional (CSDP)
+- AWS Certified Solutions Architect
+- Google Certified Professional Educator
+- Oracle Certified Java Programmer
+
+## PROFESSIONAL DEVELOPMENT
+-------------------------------
+- Workshop Leader, "Effective Teaching Methods for Programming," National CS Education Conference, 2021
+- Curriculum Developer for National Initiative to Enhance CS Education, 2019-2020
+- Regular contributor to educational technology forums and open-source teaching resources
+
+## REFERENCES
+-------------------------------
+Available upon request

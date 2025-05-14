@@ -1,0 +1,26 @@
+2025-05-13 21:58:25,053 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 21:59:06,973 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\views.py changed, reloading.
+2025-05-13 21:59:07,930 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 21:59:52,870 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\models.py changed, reloading.
+2025-05-13 21:59:53,572 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 21:59:54,841 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\utils\simple_ocr.py changed, reloading.
+2025-05-13 21:59:55,648 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:00:40,777 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:04:23,598 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\views.py changed, reloading.
+2025-05-13 22:04:24,720 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:06:40,253 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\utils\simple_ocr.py changed, reloading.
+2025-05-13 22:06:41,867 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:06:43,293 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\utils\simple_ocr.py changed, reloading.
+2025-05-13 22:06:44,360 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:06:45,751 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\views.py changed, reloading.
+2025-05-13 22:06:46,828 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:07:17,727 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\models.py changed, reloading.
+2025-05-13 22:07:18,749 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:09:11,800 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\models.py changed, reloading.
+2025-05-13 22:09:12,887 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:11:03,353 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\models.py changed, reloading.
+2025-05-13 22:11:04,419 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:11:28,029 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\views.py changed, reloading.
+2025-05-13 22:11:29,015 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-05-13 22:11:56,884 [INFO] django.utils.autoreload: C:\Users\USER PC\Desktop\Mary\DjangoProject\jobs\models.py changed, reloading.
+2025-05-13 22:11:57,760 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
